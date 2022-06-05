@@ -1,0 +1,17 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "henry-js",
+    "classifications": [
+        "Common",
+        "Console"
+    ],
+    "name": "Spectre Console CLI Template app",
+    "identity": "SpectreConsoleCLITemplate",
+    "sourceName": "SpectreConsoleTemplate",
+    "shortName": "spectrecli",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}

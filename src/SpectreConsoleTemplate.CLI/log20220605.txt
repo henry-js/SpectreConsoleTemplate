@@ -1,0 +1,828 @@
+2022-06-05 12:21:51.652 +01:00 [INF] In DefaultCommand
+2022-06-05 12:23:47.224 +01:00 [DBG] HttpMessageHandler expired after 120000ms for client 'Refit.Implementation.Generated+SpectreConsoleTemplateInfrastructureInterfacesIWeatherData, SpectreConsoleTemplate.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+2022-06-05 12:23:57.242 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:23:57.250 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0235ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:24:07.258 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:24:07.281 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0095ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:24:17.294 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:24:17.294 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0064ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:24:27.306 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:24:27.306 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0063ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:24:37.320 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:24:37.321 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0064ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:24:47.327 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:24:47.327 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0059ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:24:57.340 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:24:57.341 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0056ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:25:07.356 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:25:07.357 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0062ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:25:17.360 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:25:17.360 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0057ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:25:27.368 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:25:27.369 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.007ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:25:37.382 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:25:37.382 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0078ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:25:47.385 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:25:47.386 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0088ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:25:57.396 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:25:57.396 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0056ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:26:07.398 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:26:07.398 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.004ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:26:17.409 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:26:17.410 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0068ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:26:27.418 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:26:27.418 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0056ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:26:37.423 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:26:37.423 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0056ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:26:47.437 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:26:47.437 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0052ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:26:57.447 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:26:57.447 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0046ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:27:07.462 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:27:07.462 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0053ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:27:17.473 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:27:17.474 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0048ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:27:27.477 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:27:27.477 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0035ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:27:37.488 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:27:37.488 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0042ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:27:47.499 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:27:47.499 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0043ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:27:57.504 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:27:57.504 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0047ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:28:07.552 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:28:07.554 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0072ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:28:17.555 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:28:17.555 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0049ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:28:27.560 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:28:27.560 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0048ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:28:37.570 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:28:37.570 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0047ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:28:47.574 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:28:47.574 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0083ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:28:57.581 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:28:57.582 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:29:07.594 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:29:07.595 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:29:17.602 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:29:17.603 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0086ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:29:27.617 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:29:27.617 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:29:37.620 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:29:37.620 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:29:47.628 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:29:47.628 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:29:57.638 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:29:57.638 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:30:07.641 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:30:07.641 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:30:17.644 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:30:17.645 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:30:27.657 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:30:27.657 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:30:37.671 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:30:37.671 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0035ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:30:47.683 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:30:47.683 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:30:57.691 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:30:57.691 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:31:07.692 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:31:07.692 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:31:17.693 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:31:17.693 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:31:27.699 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:31:27.699 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:31:37.712 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:31:37.712 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:31:47.725 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:31:47.726 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:31:57.727 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:31:57.727 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:32:07.738 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:32:07.738 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:32:17.746 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:32:17.746 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:32:27.754 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:32:27.754 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:32:37.757 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:32:37.757 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:32:47.766 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:32:47.766 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:32:57.772 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:32:57.772 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0029ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:33:07.781 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:33:07.782 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:33:17.786 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:33:17.786 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0031ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:33:27.798 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:33:27.799 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0029ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:33:37.806 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:33:37.806 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:33:47.809 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:33:47.809 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0035ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:33:57.821 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:33:57.821 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:34:07.828 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:34:07.828 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:34:17.841 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:34:17.842 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0043ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:34:27.855 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:34:27.855 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0031ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:34:37.866 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:34:37.866 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:34:47.881 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:34:47.881 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:34:57.887 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:34:57.887 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:35:07.891 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:35:07.892 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:35:17.892 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:35:17.892 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:35:27.895 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:35:27.895 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:35:37.906 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:35:37.906 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:35:47.910 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:35:47.910 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:35:57.914 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:35:57.914 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:36:07.923 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:36:07.923 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:36:17.927 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:36:17.927 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:36:27.933 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:36:27.933 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:36:37.940 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:36:37.941 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:36:47.943 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:36:47.943 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:36:57.947 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:36:57.947 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:37:07.953 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:37:07.953 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:37:17.957 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:37:17.957 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0041ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:37:27.965 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:37:27.965 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:37:37.970 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:37:37.970 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:37:47.977 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:37:47.977 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:37:57.983 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:37:57.983 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:38:07.997 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:38:07.997 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:38:18.007 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:38:18.007 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:38:28.015 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:38:28.015 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0032ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:38:38.020 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:38:38.020 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.004ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:38:48.030 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:38:48.031 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:38:58.036 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:38:58.036 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:39:08.042 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:39:08.042 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:39:18.047 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:39:18.047 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:39:28.055 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:39:28.056 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:39:38.061 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:39:38.061 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0036ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:39:48.072 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:39:48.072 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0036ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:39:58.089 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:39:58.089 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:40:08.095 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:40:08.096 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:40:18.100 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:40:18.100 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:40:28.101 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:40:28.102 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:40:38.110 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:40:38.110 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:40:48.125 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:40:48.125 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:40:58.126 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:40:58.126 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:41:08.142 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:41:08.142 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:41:18.154 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:41:18.154 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:41:28.170 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:41:28.170 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0031ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:41:38.173 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:41:38.173 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:41:48.177 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:41:48.177 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:41:58.190 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:41:58.191 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:42:08.194 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:42:08.194 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:42:18.203 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:42:18.203 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:42:28.209 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:42:28.209 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:42:38.222 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:42:38.222 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:42:48.229 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:42:48.229 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:42:58.238 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:42:58.239 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:43:08.242 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:43:08.242 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0032ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:43:18.254 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:43:18.254 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:43:28.260 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:43:28.260 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0032ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:43:38.264 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:43:38.264 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:43:48.276 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:43:48.276 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:43:58.291 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:43:58.291 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:44:08.301 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:44:08.302 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0032ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:44:18.311 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:44:18.311 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:44:28.314 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:44:28.314 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:44:38.324 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:44:38.324 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:44:48.329 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:44:48.330 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:44:58.336 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:44:58.336 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:45:08.347 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:45:08.347 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:45:18.355 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:45:18.356 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:45:28.362 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:45:28.362 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:45:38.375 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:45:38.375 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:45:48.379 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:45:48.379 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:45:58.390 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:45:58.390 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:46:08.402 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:46:08.402 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:46:18.403 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:46:18.403 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:46:28.404 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:46:28.404 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:46:38.406 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:46:38.406 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:46:48.419 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:46:48.419 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:46:58.421 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:46:58.422 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:47:08.434 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:47:08.435 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:47:18.438 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:47:18.438 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:47:28.446 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:47:28.447 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0036ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:47:38.463 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:47:38.464 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:47:48.476 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:47:48.476 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:47:58.488 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:47:58.488 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:48:08.503 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:48:08.503 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:48:18.510 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:48:18.510 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:48:28.521 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:48:28.522 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:48:38.535 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:48:38.535 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:48:48.543 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:48:48.543 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:48:58.554 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:48:58.554 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:49:08.557 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:49:08.557 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:49:18.571 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:49:18.572 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:49:28.578 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:49:28.578 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:49:38.587 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:49:38.587 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:49:48.591 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:49:48.591 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:49:58.604 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:49:58.604 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:50:08.616 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:50:08.616 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:50:18.629 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:50:18.629 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:50:28.632 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:50:28.632 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:50:38.642 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:50:38.642 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:50:48.647 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:50:48.647 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:50:58.648 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:50:58.648 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:51:08.652 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:51:08.652 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:51:18.663 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:51:18.663 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:51:28.673 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:51:28.673 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:51:38.677 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:51:38.677 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:51:48.686 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:51:48.686 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:51:58.700 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:51:58.700 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:52:08.714 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:52:08.714 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:52:18.724 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:52:18.724 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:52:28.734 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:52:28.734 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:52:38.748 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:52:38.748 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:52:48.764 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:52:48.764 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:52:58.766 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:52:58.766 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:53:08.775 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:53:08.775 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:53:18.786 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:53:18.786 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:53:28.799 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:53:28.799 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:53:38.802 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:53:38.803 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:53:48.809 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:53:48.809 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:53:58.821 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:53:58.821 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:54:08.832 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:54:08.832 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:54:18.834 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:54:18.834 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:54:28.838 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:54:28.839 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:54:38.843 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:54:38.843 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:54:48.851 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:54:48.851 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:54:58.857 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:54:58.857 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:55:08.861 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:55:08.862 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:55:18.873 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:55:18.873 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0034ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:55:28.885 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:55:28.885 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0034ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:55:38.890 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:55:38.890 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:55:48.901 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:55:48.901 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:55:58.914 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:55:58.915 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:56:08.928 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:56:08.928 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:56:18.936 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:56:18.936 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:56:28.937 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:56:28.937 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:56:38.948 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:56:38.948 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:56:48.961 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:56:48.961 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0033ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:56:58.962 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:56:58.962 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:57:08.964 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:57:08.964 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:57:18.967 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:57:18.967 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:57:28.975 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:57:28.975 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0032ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:57:38.988 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:57:38.988 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:57:48.997 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:57:48.997 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:57:59.003 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:57:59.003 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:58:09.015 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:58:09.015 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:58:19.022 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:58:19.022 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:58:29.026 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:58:29.026 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:58:39.041 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:58:39.041 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:58:49.055 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:58:49.055 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:58:59.064 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:58:59.064 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:59:09.078 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:59:09.078 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:59:19.079 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:59:19.080 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:59:29.083 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:59:29.084 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:59:39.087 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:59:39.088 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0042ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:59:49.096 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:59:49.097 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 12:59:59.107 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 12:59:59.107 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:00:09.115 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:00:09.115 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:00:19.125 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:00:19.126 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:00:29.136 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:00:29.136 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:00:39.145 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:00:39.145 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:00:49.157 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:00:49.157 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:00:59.166 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:00:59.166 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:01:09.170 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:01:09.170 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:01:19.173 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:01:19.174 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:01:29.186 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:01:29.186 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:01:39.199 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:01:39.199 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:01:49.207 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:01:49.207 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:01:59.211 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:01:59.211 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:02:09.212 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:02:09.212 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:02:19.219 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:02:19.220 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0031ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:02:29.226 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:02:29.226 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:02:39.230 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:02:39.230 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:02:49.243 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:02:49.243 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:02:59.246 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:02:59.246 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:03:09.257 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:03:09.257 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:03:19.258 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:03:19.258 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:03:29.269 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:03:29.269 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:03:39.275 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:03:39.275 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:03:49.288 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:03:49.288 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:03:59.292 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:03:59.293 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:04:09.295 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:04:09.295 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:04:19.300 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:04:19.300 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:04:29.312 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:04:29.312 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:04:39.320 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:04:39.320 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:04:49.323 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:04:49.323 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.003ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:04:59.330 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:04:59.330 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:05:09.344 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:05:09.344 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:05:19.356 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:05:19.356 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:05:29.358 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:05:29.358 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:05:39.366 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:05:39.366 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:05:49.376 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:05:49.376 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:05:59.387 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:05:59.387 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:06:09.402 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:06:09.402 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:06:19.408 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:06:19.408 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:06:29.417 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:06:29.417 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:06:39.423 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:06:39.423 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:06:49.438 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:06:49.438 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:06:59.449 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:06:59.449 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:07:09.459 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:07:09.459 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:07:19.463 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:07:19.463 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:07:29.467 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:07:29.468 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:07:39.482 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:07:39.483 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:07:49.497 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:07:49.497 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:07:59.501 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:07:59.501 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:08:09.503 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:08:09.503 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:08:19.508 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:08:19.508 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:08:29.513 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:08:29.513 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0007ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:08:39.521 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:08:39.521 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:08:49.531 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:08:49.531 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0029ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:08:59.536 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:08:59.536 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:09:09.552 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:09:09.552 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:09:19.567 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:09:19.567 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:09:29.577 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:09:29.578 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:09:39.590 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:09:39.590 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0035ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:09:49.601 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:09:49.601 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:09:59.605 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:09:59.605 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:10:09.619 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:10:09.619 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:10:19.622 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:10:19.622 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:10:29.636 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:10:29.636 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:10:39.642 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:10:39.642 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:10:49.656 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:10:49.656 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:10:59.660 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:10:59.660 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:11:09.665 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:11:09.665 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:11:19.674 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:11:19.674 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0034ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:11:29.682 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:11:29.682 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:11:39.695 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:11:39.695 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:11:49.704 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:11:49.704 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:11:59.720 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:11:59.721 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:12:09.734 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:12:09.734 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:12:19.743 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:12:19.744 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:12:29.752 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:12:29.752 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:12:39.763 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:12:39.763 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:12:49.771 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:12:49.771 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0032ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:12:59.776 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:12:59.776 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:13:09.783 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:13:09.783 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0027ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:13:19.795 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:13:19.795 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:13:29.799 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:13:29.799 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:13:39.803 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:13:39.803 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:13:49.817 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:13:49.817 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:13:59.818 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:13:59.818 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0038ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:14:09.827 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:14:09.827 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0035ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:14:19.836 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:14:19.836 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:14:29.842 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:14:29.842 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:14:39.853 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:14:39.853 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:14:49.869 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:14:49.869 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:14:59.874 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:14:59.874 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:15:09.879 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:15:09.880 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:15:19.893 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:15:19.893 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:15:29.898 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:15:29.898 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:15:39.907 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:15:39.907 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:15:49.918 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:15:49.918 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:15:59.920 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:15:59.920 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:16:09.927 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:16:09.928 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:16:19.935 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:16:19.935 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:16:29.939 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:16:29.939 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:16:39.942 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:16:39.942 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:16:49.955 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:16:49.955 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:16:59.959 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:16:59.959 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0006ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:17:09.964 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:17:09.964 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0033ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:17:19.973 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:17:19.973 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:17:29.974 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:17:29.974 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:17:39.989 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:17:39.989 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:17:50.001 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:17:50.001 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:18:00.014 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:18:00.014 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:18:10.024 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:18:10.024 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:18:20.039 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:18:20.039 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:18:30.042 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:18:30.042 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:18:40.056 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:18:40.056 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 13:18:50.061 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 13:18:50.061 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:35:23.473 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:35:23.473 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:35:33.490 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:35:33.490 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:35:43.500 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:35:43.501 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0026ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:35:53.516 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:35:53.516 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:36:03.528 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:36:03.528 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:36:13.533 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:36:13.533 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:36:23.541 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:36:23.541 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:36:33.552 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:36:33.552 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:36:43.559 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:36:43.559 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:36:53.562 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:36:53.562 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:37:03.568 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:37:03.568 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:37:13.569 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:37:13.569 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:37:23.577 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:37:23.577 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:37:33.585 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:37:33.585 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:37:43.586 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:37:43.586 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:37:53.592 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:37:53.592 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:38:03.601 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:38:03.601 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:38:13.604 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:38:13.604 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:38:23.616 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:38:23.617 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:38:33.627 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:38:33.627 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:38:43.636 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:38:43.636 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:38:53.649 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:38:53.649 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:39:03.650 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:39:03.650 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:39:13.655 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:39:13.655 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:39:23.663 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:39:23.663 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0007ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:39:33.664 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:39:33.664 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:39:43.680 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:39:43.680 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:39:53.685 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:39:53.685 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:40:03.692 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:40:03.692 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:40:13.705 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:40:13.705 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:40:23.708 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:40:23.709 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:40:33.711 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:40:33.711 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.019ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:40:43.723 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:40:43.723 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0017ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:40:53.739 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:40:53.739 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:41:03.746 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:41:03.746 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:41:13.756 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:41:13.756 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:41:23.765 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:41:23.765 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:41:33.767 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:41:33.767 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:41:43.777 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:41:43.777 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:41:53.793 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:41:53.793 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0012ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:42:03.795 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:42:03.795 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:42:13.809 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:42:13.809 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:42:23.821 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:42:23.821 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:42:33.834 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:42:33.834 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:42:43.840 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:42:43.840 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:42:53.846 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:42:53.846 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:43:03.860 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:43:03.860 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0022ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:43:13.873 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:43:13.873 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0025ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:43:23.887 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:43:23.887 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:43:33.887 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:43:33.888 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:43:43.893 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:43:43.894 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0029ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:43:53.902 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:43:53.902 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:44:03.903 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:44:03.903 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:44:13.904 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:44:13.904 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:44:23.918 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:44:23.918 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0011ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:44:33.923 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:44:33.923 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:44:43.927 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:44:43.927 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:44:53.932 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:44:53.932 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:45:03.936 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:45:03.937 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:45:13.948 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:45:13.948 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:45:23.950 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:45:23.950 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:45:33.961 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:45:33.962 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:45:43.966 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:45:43.966 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0016ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:45:53.981 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:45:53.981 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.002ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:46:03.988 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:46:03.988 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:46:13.994 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:46:13.994 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0009ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:46:24.003 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:46:24.003 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:46:34.012 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:46:34.012 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0019ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:46:44.013 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:46:44.014 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0015ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:46:54.029 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:46:54.029 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0013ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:47:04.040 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:47:04.041 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:47:14.041 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:47:14.041 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0014ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:47:24.055 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:47:24.055 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0028ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:47:34.070 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:47:34.070 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:47:44.082 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:47:44.082 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.001ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:47:54.092 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:47:54.092 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:48:04.098 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:48:04.098 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:48:14.112 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:48:14.112 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0024ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:48:24.117 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:48:24.118 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0023ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:48:34.121 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:48:34.121 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:48:44.137 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:48:44.137 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0018ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:48:54.140 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:48:54.141 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0021ms - processed: 0 items - remaining: 1 items
+2022-06-05 14:49:04.148 +01:00 [DBG] Starting HttpMessageHandler cleanup cycle with 1 items
+2022-06-05 14:49:04.148 +01:00 [DBG] Ending HttpMessageHandler cleanup cycle after 0.0008ms - processed: 0 items - remaining: 1 items

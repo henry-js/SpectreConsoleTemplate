@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "src\\SpectreConsoleTemplate.CLI"
+		},
+		{
+			"path": "src\\SpectreConsoleTemplate.Domain"
+		},
+		{
+			"path": "src\\SpectreConsoleTemplate.Infrastructure"
+		}
+	],
+	"settings": {}
+}

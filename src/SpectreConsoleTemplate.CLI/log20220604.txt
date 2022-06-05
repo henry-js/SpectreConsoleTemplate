@@ -1,0 +1,9 @@
+2022-06-04 22:39:01.496 +01:00 [DBG] App started
+2022-06-04 22:40:34.729 +01:00 [DBG] App started
+2022-06-04 22:40:34.893 +01:00 [INF] In DefaultCommand
+2022-06-04 22:42:15.110 +01:00 [DBG] App started
+2022-06-04 22:43:33.898 +01:00 [DBG] App started
+2022-06-04 22:50:24.463 +01:00 [DBG] App started
+2022-06-04 22:57:59.764 +01:00 [DBG] App started
+2022-06-04 22:57:59.999 +01:00 [INF] In DefaultCommand
+2022-06-04 23:00:31.330 +01:00 [DBG] App started
