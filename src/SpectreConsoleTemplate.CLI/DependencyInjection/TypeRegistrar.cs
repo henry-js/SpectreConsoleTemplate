@@ -1,40 +1,40 @@
-using System;
-using Microsoft.Extensions.DependencyInjection;
-using Spectre.Console.Cli;
+// using System;
+// using Microsoft.Extensions.DependencyInjection;
+// using Spectre.Console.Cli;
 
-namespace SpectreConsoleTemplate.CLI.DependencyInjection;
+// namespace SpectreConsoleTemplate.CLI.DependencyInjection;
 
-public sealed class TypeRegistrar : ITypeRegistrar
-{
+// public sealed class TypeRegistrar : ITypeRegistrar
+// {
 
-    private readonly IServiceCollection _builder;
-    public TypeRegistrar(IServiceCollection builder)
-    {
-        _builder = builder;
+//     private readonly IServiceCollection _builder;
+//     public TypeRegistrar(IServiceCollection builder)
+//     {
+//         _builder = builder;
 
-    }
-    public ITypeResolver Build()
-    {
-        return new TypeResolver(_builder.BuildServiceProvider());
-    }
+//     }
+//     public ITypeResolver Build()
+//     {
+//         return new TypeResolver(_builder.BuildServiceProvider());
+//     }
 
-    public void Register(Type service, Type implementation)
-    {
-        _builder.AddSingleton(service, implementation);
-    }
+//     public void Register(Type service, Type implementation)
+//     {
+//         _builder.AddSingleton(service, implementation);
+//     }
 
-    public void RegisterInstance(Type service, object implementation)
-    {
-        _builder.AddSingleton(service, implementation);
-    }
+//     public void RegisterInstance(Type service, object implementation)
+//     {
+//         _builder.AddSingleton(service, implementation);
+//     }
 
-    public void RegisterLazy(Type service, Func<object> factory)
-    {
-        if (factory is null)
-        {
-            throw new ArgumentNullException(nameof(factory));
-        }
+//     public void RegisterLazy(Type service, Func<object> factory)
+//     {
+//         if (factory is null)
+//         {
+//             throw new ArgumentNullException(nameof(factory));
+//         }
 
-        _builder.AddSingleton(service, (provider) => factory());
-    }
-}
+//         _builder.AddSingleton(service, (provider) => factory());
+//     }
+// }

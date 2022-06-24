@@ -1,0 +1,28 @@
+2022-06-24 22:13:31.558 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/data/2.5/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cuk"
+2022-06-24 22:13:31.613 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/data/2.5/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cuk"
+2022-06-24 22:13:32.090 +01:00 [INF] Received HTTP response headers after 471.2982ms - 404
+2022-06-24 22:13:32.095 +01:00 [INF] End processing HTTP request after 554.0559ms - 404
+2022-06-24 22:14:19.619 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/data/2.5/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:14:19.687 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/data/2.5/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:14:20.079 +01:00 [INF] Received HTTP response headers after 385.5862ms - 404
+2022-06-24 22:14:20.083 +01:00 [INF] End processing HTTP request after 480.2863ms - 404
+2022-06-24 22:16:28.463 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:16:28.531 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:16:28.936 +01:00 [INF] Received HTTP response headers after 398.7625ms - 200
+2022-06-24 22:16:28.940 +01:00 [INF] End processing HTTP request after 493.47ms - 200
+2022-06-24 22:16:58.362 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:16:58.430 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:16:58.785 +01:00 [INF] Received HTTP response headers after 349.8484ms - 200
+2022-06-24 22:16:58.789 +01:00 [INF] End processing HTTP request after 442.8958ms - 200
+2022-06-24 22:21:22.114 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:21:22.180 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:21:22.554 +01:00 [INF] Received HTTP response headers after 367.2027ms - 200
+2022-06-24 22:21:22.558 +01:00 [INF] End processing HTTP request after 461.2399ms - 200
+2022-06-24 22:24:29.168 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:24:29.234 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 22:24:29.600 +01:00 [INF] Received HTTP response headers after 359.3111ms - 200
+2022-06-24 22:24:29.604 +01:00 [INF] End processing HTTP request after 456.0362ms - 200
+2022-06-24 23:10:33.323 +01:00 [INF] Start processing HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 23:10:33.391 +01:00 [INF] Sending HTTP request GET "https://api.openweathermap.org/geo/1.0/direct?appid=0a36e5187006b980e1b4011ab3d8b331&limit=1&q=London%2Cgb"
+2022-06-24 23:10:33.800 +01:00 [INF] Received HTTP response headers after 402.7979ms - 200
+2022-06-24 23:10:33.804 +01:00 [INF] End processing HTTP request after 497.1346ms - 200

@@ -11,11 +11,15 @@
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/src/SpectreConsoleTemplate.CLI/bin/Debug/net6.0/SpectreConsoleTemplate.CLI.dll",
-            "args": [],
+            "args": [
+                "weather",
+                "get"
+            ],
             "cwd": "${workspaceFolder}/src/SpectreConsoleTemplate.CLI",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "externalTerminal",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "justMyCode": false
         },
         {
             "name": ".NET Core Attach",

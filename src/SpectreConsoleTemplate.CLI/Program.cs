@@ -1,50 +1,46 @@
-﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
+﻿
+using System.Reflection.Metadata.Ecma335;
+using D20Tek.Spectre.Console.Extensions.Injection;
+using Microsoft.Extensions.Configuration;
 using Refit;
 using Serilog;
-using Serilog.Events;
+using Serilog.Context;
 using Spectre.Console.Cli;
-using SpectreConsoleTemplate.CLI.DependencyInjection;
+using SpectreConsoleTemplate.CLI.Commands;
+using SpectreConsoleTemplate.CLI.Commands.Settings;
 using SpectreConsoleTemplate.Infrastructure.Interfaces;
 
-namespace SpectreConsoleTemplate.CLI;
-public static class Program
-{
-    public static async Task<int> Main(string[] args)
-    {
-        // The initial "bootstrap" logger is able to log errors during start-up. It's completely replaced by the
-        // logger configured in `UseSerilog()` below, once configuration and dependency-injection have both been
-        // set up successfully.
-        var configuration = new ConfigurationBuilder()
-            .AddJsonFile("appsettings.json")
-            .Build();
+IConfiguration config = new ConfigurationBuilder()
+    .AddEnvironmentVariables()
+    .Build();
 
-        var host = CreateHostBuilder()
-                   .Build();
-        // Run the application.
-        return await host.RunAsync(args);
-    }
+var services = new ServiceCollection();
+var settings = new RefitSettings();
 
-    static IHostBuilder CreateHostBuilder()
+services.AddScoped<IConfiguration>(_ => new ConfigurationBuilder().AddEnvironmentVariables().Build())
+        .AddLogging(configure =>
+        configure.AddSerilog(new LoggerConfiguration()
+            .MinimumLevel.Information()
+            .WriteTo.Console()
+            .WriteTo.File("log-.txt", rollingInterval: RollingInterval.Day)
+            .CreateLogger()
+        ))
+        .AddRefitClient<IWeatherData>(settings)
+        .ConfigureHttpClient(c => c.BaseAddress = new Uri("https://api.openweathermap.org"));
+
+var registrar = new DependencyInjectionTypeRegistrar(services);
+
+var app = new CommandApp(registrar);
+
+app.Configure(config =>
     {
-        var host = Host.CreateDefaultBuilder()
-            .UseSerilog((context, services, configuration) =>
-                configuration
-                    .ReadFrom.Configuration(context.Configuration)
-                    .Enrich.FromLogContext()
-                    .MinimumLevel.Override("Microsoft.AspNetCore", LogEventLevel.Warning))
-            .ConfigureServices((services) =>
-            {
-                // Register services here
-                services.AddRefitClient<IWeatherData>()
-                    .ConfigureHttpClient((config) => config.BaseAddress = new Uri("https://api.openweathermap.org"));
-                // Add command line with default command
-                services.AddCommandLine<DefaultCommand>(config =>
-                {
-                    config.SetApplicationName("comply");
-                });
-            });
-        return host;
-    }
-}
+        config.CaseSensitivity(CaseSensitivity.None)
+              .SetApplicationName("SpectreConsoleTemplate")
+              .ValidateExamples();
+        config.AddBranch<WeatherSettings>("weather", weather =>
+        {
+            weather.AddCommand<WeatherGetCommand>("get");
+        });
+    });
+
+return await app.RunAsync(args);

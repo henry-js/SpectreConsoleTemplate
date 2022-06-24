@@ -1,63 +1,125 @@
 ﻿using System.Text.Json.Serialization;
 
 namespace SpectreConsoleTemplate.Infrastructure.Models;
-public partial record class WeatherModel
-{
-    public Coord? Coord { get; set; }
-    [JsonPropertyName("weather")]
-    public List<WeatherElement>? WeatherWeather { get; set; }
-    public string? Base { get; set; }
-    public Main? Main { get; set; }
-    public long Visibility { get; set; }
-    public Wind? Wind { get; set; }
-    public Clouds? Clouds { get; set; }
-    public long Dt { get; set; }
-    public Sys? Sys { get; set; }
-    public long Id { get; set; }
-    public string? Name { get; set; }
-    public long Cod { get; set; }
-}
 
-public partial record class Clouds
+public partial class WeatherModel
 {
-    public long All { get; set; }
-}
-
-public partial record class Coord
-{
-    public double Lon { get; set; }
     public double Lat { get; set; }
+    public double Lon { get; set; }
+    public string Timezone { get; set; }
+    public long TimezoneOffset { get; set; }
+    public Current Current { get; set; }
+    public List<Minutely> Minutely { get; set; }
+    public List<Current> Hourly { get; set; }
+    public List<Daily> Daily { get; set; }
+    public List<Alert> Alerts { get; set; }
 }
 
-public partial record class Main
+public partial class Alert
 {
+    public string SenderName { get; set; }
+    public string Event { get; set; }
+    public long Start { get; set; }
+    public long End { get; set; }
+    public string Description { get; set; }
+    public List<string> Tags { get; set; }
+}
+
+public partial class Current
+{
+    public long Dt { get; set; }
+    public long? Sunrise { get; set; }
+    public long? Sunset { get; set; }
     public double Temp { get; set; }
+    public double FeelsLike { get; set; }
     public long Pressure { get; set; }
     public long Humidity { get; set; }
-    public double TempMin { get; set; }
-    public double TempMax { get; set; }
+    public double DewPoint { get; set; }
+    public double Uvi { get; set; }
+    public long Clouds { get; set; }
+    public long Visibility { get; set; }
+    public double WindSpeed { get; set; }
+    public long WindDeg { get; set; }
+    public double WindGust { get; set; }
+    public List<Weather> Weather { get; set; }
+    public double? Pop { get; set; }
+    public Rain Rain { get; set; }
 }
 
-public partial record class Sys
+public partial class Rain
 {
-    public long Type { get; set; }
+    public double The1H { get; set; }
+}
+
+public partial class Weather
+{
     public long Id { get; set; }
-    public double Message { get; set; }
-    public string? Country { get; set; }
+    public Main Main { get; set; }
+    public Description Description { get; set; }
+    public string Icon { get; set; }
+}
+
+public partial class Daily
+{
+    public long Dt { get; set; }
     public long Sunrise { get; set; }
     public long Sunset { get; set; }
+    public long Moonrise { get; set; }
+    public long Moonset { get; set; }
+    public double MoonPhase { get; set; }
+    public Temp Temp { get; set; }
+    public FeelsLike FeelsLike { get; set; }
+    public long Pressure { get; set; }
+    public long Humidity { get; set; }
+    public double DewPoint { get; set; }
+    public double WindSpeed { get; set; }
+    public long WindDeg { get; set; }
+    public double WindGust { get; set; }
+    public List<Weather> Weather { get; set; }
+    public long Clouds { get; set; }
+    public double Pop { get; set; }
+    public double Uvi { get; set; }
+    public double? Rain { get; set; }
 }
 
-public partial record class WeatherElement
+public partial class FeelsLike
 {
-    public long Id { get; set; }
-    public string? Main { get; set; }
-    public string? Description { get; set; }
-    public string? Icon { get; set; }
+    public double Day { get; set; }
+    public double Night { get; set; }
+    public double Eve { get; set; }
+    public double Morn { get; set; }
 }
 
-public partial record class Wind
+public partial class Temp
 {
-    public double Speed { get; set; }
-    public long Deg { get; set; }
+    public double Day { get; set; }
+    public double Min { get; set; }
+    public double Max { get; set; }
+    public double Night { get; set; }
+    public double Eve { get; set; }
+    public double Morn { get; set; }
 }
+
+public partial class Minutely
+{
+    public long Dt { get; set; }
+    public long Precipitation { get; set; }
+}
+
+public enum Description
+{
+    BrokenClouds,
+    ClearSky,
+    FewClouds,
+    LightRain,
+    ModerateRain,
+    OvercastClouds,
+    ScatteredClouds
+};
+
+public enum Main
+{
+    Clear,
+    Clouds,
+    Rain
+};

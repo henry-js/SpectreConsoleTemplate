@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using D20Tek.Spectre.Console.Extensions.Injection;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Spectre.Console.Cli;
 
@@ -10,7 +11,7 @@ public static class HostingExtensions
         this IServiceCollection services,
         Action<IConfigurator> configurator)
     {
-        var app = new CommandApp(new TypeRegistrar(services));
+        var app = new CommandApp(new DependencyInjectionTypeRegistrar(services));
         app.Configure(configurator);
         services.AddSingleton<ICommandApp>(app);
 
@@ -22,7 +23,7 @@ public static class HostingExtensions
         Action<IConfigurator> configurator)
             where TDefaultCommand : class, ICommand
     {
-        var app = new CommandApp<TDefaultCommand>(new TypeRegistrar(services));
+        var app = new CommandApp<TDefaultCommand>(new DependencyInjectionTypeRegistrar(services));
         app.Configure(configurator);
         services.AddSingleton<ICommandApp>(app);
 
