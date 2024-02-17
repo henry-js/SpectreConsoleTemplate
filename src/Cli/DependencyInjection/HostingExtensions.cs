@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Spectre.Console.Cli;
 
-namespace SpectreConsoleTemplate.CLI.DependencyInjection;
+namespace henry_js.Cli.DependencyInjection;
 
 public static class HostingExtensions
 {

@@ -5,13 +5,23 @@
         "Common",
         "Console"
     ],
-    "name": "Spectre Console CLI Template app",
-    "identity": "SpectreConsoleCLITemplate",
-    "sourceName": "SpectreConsoleTemplate",
-    "shortName": "spectrecli",
+    "name": "henry-js CLI Template app",
+    "identity": "henry-js.CLI",
+    "sourceName": "henry-js.Cli",
+    "shortName": "henrycli",
     "tags": {
         "language": "C#",
         "type": "project"
+    },
+    "symbols": {
+        "ClassName": {
+            "type": "parameter",
+            "description": "The name of the code file and class.",
+            "datatype": "text",
+            "replaces": "StringExtensions",
+            "fileRename": "StringExtensions",
+            "defaultValue": "StringExtensions"
+        }
     },
     "preferNameDirectory": true
 }

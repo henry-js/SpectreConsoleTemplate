@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.csproj", "{F5CD16A6-D7C1-4230-BE79-E28DC96EBFB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{611FB307-9973-4DBA-8426-AF68C69D1289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cli", "src\Cli\Cli.csproj", "{4169827E-9D37-4DC2-AADB-6E4895CA925D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "src\Lib\Lib.csproj", "{874FEE05-472A-4477-9383-8AFE88C6421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CD16A6-D7C1-4230-BE79-E28DC96EBFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CD16A6-D7C1-4230-BE79-E28DC96EBFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4169827E-9D37-4DC2-AADB-6E4895CA925D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4169827E-9D37-4DC2-AADB-6E4895CA925D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4169827E-9D37-4DC2-AADB-6E4895CA925D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4169827E-9D37-4DC2-AADB-6E4895CA925D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874FEE05-472A-4477-9383-8AFE88C6421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874FEE05-472A-4477-9383-8AFE88C6421C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874FEE05-472A-4477-9383-8AFE88C6421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874FEE05-472A-4477-9383-8AFE88C6421C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4169827E-9D37-4DC2-AADB-6E4895CA925D} = {611FB307-9973-4DBA-8426-AF68C69D1289}
+		{874FEE05-472A-4477-9383-8AFE88C6421C} = {611FB307-9973-4DBA-8426-AF68C69D1289}
+	EndGlobalSection
+EndGlobal
